@@ -1,1 +1,1 @@
-![image](https://github.com/xautik/X-Weather-Android-App/assets/106868727/fd599923-75a4-48d7-8359-d478c52232a1)
+![xweather](https://github.com/xautik/X-Weather-Android-App/assets/106868727/40b972de-1f78-49a9-b8ac-42459bf6ae35)
